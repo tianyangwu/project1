@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>lyrics of </title>
-  </head>
-  <body>
-  jshdkhaiu
-  </body>
-</html>
+
+html{
+  font-family: 'Dosis', sans-serif;
+}
+h1{
+  font-size: 50px
+}
+.box{
+  border: 50px solid rgb(255,228,225);
+  padding: 20px;
+}
